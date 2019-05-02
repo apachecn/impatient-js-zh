@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="76.17716 43.68504 593.1457 438.03543" width="593.1457" height="438.03543">
+  <defs>
+    <filter id="Shadow" filterUnits="userSpaceOnUse" x="76.17716" y="43.68504">
+      <feGaussianBlur in="SourceAlpha" result="blur" stdDeviation="1.308"/>
+      <feOffset in="blur" result="offset" dx="0" dy="2"/>
+      <feFlood flood-color="black" flood-opacity=".5" result="flood"/>
+      <feComposite in="flood" in2="offset" operator="in"/>
+    </filter>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="StickArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 0 M 0 -3 L 8 0 L 0 3" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.10.1 
+    <dc:date>2017-05-24 22:16:17 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" fill="none" stroke-dasharray="none" stroke-opacity="1" stroke="none" fill-opacity="1">
+    <title>Canvas 1</title>
+    <rect fill="white" x="76.17716" y="43.68504" width="593.1457" height="438.03543"/>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_22_shadow" filter="url(#Shadow)">
+        <rect x="89.29133" y="89.29134" width="226.77165" height="29.76378" fill="white"/>
+        <rect x="89.29133" y="89.29134" width="226.77165" height="29.76378" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_21_shadow" filter="url(#Shadow)">
+        <rect x="89.29133" y="178.58267" width="226.77165" height="29.76378" fill="white"/>
+        <rect x="89.29133" y="178.58267" width="226.77165" height="29.76378" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_20_shadow" filter="url(#Shadow)">
+        <rect x="89.29133" y="267.874" width="226.77165" height="29.76378" fill="white"/>
+        <rect x="89.29133" y="267.874" width="226.77165" height="29.76378" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_19_shadow" filter="url(#Shadow)">
+        <rect x="89.29133" y="357.16535" width="226.77165" height="29.76378" fill="white"/>
+        <rect x="89.29133" y="357.16535" width="226.77165" height="29.76378" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_18_shadow" filter="url(#Shadow)">
+        <rect x="89.29133" y="446.4567" width="226.77165" height="29.76378" fill="white"/>
+        <rect x="89.29133" y="446.4567" width="226.77165" height="29.76378" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_22">
+        <rect x="89.29133" y="89.29134" width="226.77165" height="29.76378" fill="white"/>
+        <rect x="89.29133" y="89.29134" width="226.77165" height="29.76378" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(94.29133 94.17323)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="41.265826" y="15">Stage 0: strawman</tspan>
+        </text>
+      </g>
+      <g id="Graphic_21">
+        <rect x="89.29133" y="178.58267" width="226.77165" height="29.76378" fill="white"/>
+        <rect x="89.29133" y="178.58267" width="226.77165" height="29.76378" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(94.29133 183.46456)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="45.113826" y="15">Stage 1: proposal</tspan>
+        </text>
+      </g>
+      <g id="Graphic_20">
+        <rect x="89.29133" y="267.874" width="226.77165" height="29.76378" fill="white"/>
+        <rect x="89.29133" y="267.874" width="226.77165" height="29.76378" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(94.29133 272.7559)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="59.785826" y="15">Stage 2: draft</tspan>
+        </text>
+      </g>
+      <g id="Graphic_19">
+        <rect x="89.29133" y="357.16535" width="226.77165" height="29.76378" fill="white"/>
+        <rect x="89.29133" y="357.16535" width="226.77165" height="29.76378" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(94.29133 362.04724)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="40.961826" y="15">Stage 3: candidate</tspan>
+        </text>
+      </g>
+      <g id="Graphic_18">
+        <rect x="89.29133" y="446.4567" width="226.77165" height="29.76378" fill="white"/>
+        <rect x="89.29133" y="446.4567" width="226.77165" height="29.76378" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(94.29133 451.3386)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="48.521826" y="15">Stage 4: finished</tspan>
+        </text>
+      </g>
+      <g id="Line_17">
+        <line x1="202.67716" y1="119.05512" x2="202.67716" y2="168.68267" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_16">
+        <line x1="202.67716" y1="208.34645" x2="202.67716" y2="257.974" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_15">
+        <line x1="202.67716" y1="297.6378" x2="202.67716" y2="347.26535" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_14">
+        <line x1="202.67716" y1="386.92913" x2="202.67716" y2="436.5567" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_13">
+        <rect x="140.17716" y="131.48409" width="125" height="30" fill="white"/>
+        <text transform="translate(145.62116 136.48409)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="4902745e-19" y="15">Pick champions</tspan>
+        </text>
+      </g>
+      <g id="Graphic_12">
+        <rect x="76.17716" y="218.9891" width="253" height="30" fill="white"/>
+        <text transform="translate(81.60516 223.9891)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="11368684e-20" y="15">First spec text, 2 implementations</tspan>
+        </text>
+      </g>
+      <g id="Graphic_11">
+        <rect x="143.17716" y="309.8466" width="119" height="30" fill="white"/>
+        <text transform="translate(148.58916 314.8466)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Spec complete</tspan>
+        </text>
+      </g>
+      <g id="Graphic_10">
+        <rect x="103.67716" y="399.58696" width="198" height="30" fill="white"/>
+        <text transform="translate(109.02116 404.58696)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="8668621e-19" y="15">Test 262 acceptance tests</tspan>
+        </text>
+      </g>
+      <g id="Line_9">
+        <line x1="202.43934" y1="73.68504" x2="202.48386" y2="79.39164" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_8">
+        <text transform="translate(114.90634 48.68504)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Review at TC39 meeting</tspan>
+        </text>
+      </g>
+      <g id="Graphic_7">
+        <text transform="translate(342.32284 183.34645)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">TC39 helps</tspan>
+        </text>
+      </g>
+      <g id="Graphic_6">
+        <text transform="translate(342.32284 272.6378)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Likely to be standardized</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5">
+        <text transform="translate(342.32284 361.92913)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Done, needs feedback from implementations</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4">
+        <text transform="translate(342.32284 451.22047)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Ready for standardization</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3">
+        <text transform="translate(342.32284 93.8189)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Sketch</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

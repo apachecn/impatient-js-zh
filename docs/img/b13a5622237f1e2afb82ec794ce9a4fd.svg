@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="280.22 1159.2 163.96 190.69982" width="163.96" height="190.69982">
+  <defs>
+    <filter id="Shadow" filterUnits="userSpaceOnUse" x="280.22" y="1159.2">
+      <feGaussianBlur in="SourceAlpha" result="blur" stdDeviation="1.308"/>
+      <feOffset in="blur" result="offset" dx="0" dy="2"/>
+      <feFlood flood-color="black" flood-opacity=".5" result="flood"/>
+      <feComposite in="flood" in2="offset" operator="in"/>
+    </filter>
+    <font-face font-family="Helvetica" font-size="12" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="522.9492" cap-height="717.28516" ascent="770.0195" descent="-229.98047" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Helvetica"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="StickArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 0 M 0 -3 L 8 0 L 0 3" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.10.1 
+    <dc:date>2019-03-26 12:18:55 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" stroke="none" stroke-opacity="1" fill-opacity="1" stroke-dasharray="none" fill="none">
+    <title>Canvas 1</title>
+    <rect fill="white" x="280.22" y="1159.2" width="163.96" height="190.69982"/>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_189_shadow" filter="url(#Shadow)">
+        <rect x="358.96" y="1210.2619" width="81.72" height="21" fill="white"/>
+        <rect x="358.96" y="1210.2619" width="81.72" height="21" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_190_shadow" filter="url(#Shadow)">
+        <rect x="358.96" y="1231.2619" width="81.72" height="21" fill="white"/>
+        <rect x="358.96" y="1231.2619" width="81.72" height="21" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_191_shadow" filter="url(#Shadow)">
+        <rect x="283.72" y="1231.2619" width="75.24" height="21" fill="white"/>
+        <rect x="283.72" y="1231.2619" width="75.24" height="21" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_192_shadow" filter="url(#Shadow)">
+        <rect x="283.72" y="1210.2619" width="75.24" height="21" fill="white"/>
+        <rect x="283.72" y="1210.2619" width="75.24" height="21" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_180_shadow" filter="url(#Shadow)">
+        <rect x="358.96" y="1323.3998" width="81.72" height="21" fill="white"/>
+        <rect x="358.96" y="1323.3998" width="81.72" height="21" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_181_shadow" filter="url(#Shadow)">
+        <rect x="283.92" y="1302.3998" width="75.03999" height="21" fill="white"/>
+        <rect x="283.92" y="1302.3998" width="75.03999" height="21" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_182_shadow" filter="url(#Shadow)">
+        <rect x="283.92" y="1323.3998" width="75.03999" height="21" fill="white"/>
+        <rect x="283.92" y="1323.3998" width="75.03999" height="21" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_183_shadow" filter="url(#Shadow)">
+        <rect x="358.96" y="1302.3998" width="81.72" height="21" fill="white"/>
+        <rect x="358.96" y="1302.3998" width="81.72" height="21" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Group_188">
+        <g id="Graphic_192">
+          <rect x="283.72" y="1210.2619" width="75.24" height="21" fill="white"/>
+          <rect x="283.72" y="1210.2619" width="75.24" height="21" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(288.72 1213.7619)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">__proto__</tspan>
+          </text>
+        </g>
+        <g id="Graphic_191">
+          <rect x="283.72" y="1231.2619" width="75.24" height="21" fill="white"/>
+          <rect x="283.72" y="1231.2619" width="75.24" height="21" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(288.72 1234.7619)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">describe</tspan>
+          </text>
+        </g>
+        <g id="Graphic_190">
+          <rect x="358.96" y="1231.2619" width="81.72" height="21" fill="white"/>
+          <rect x="358.96" y="1231.2619" width="81.72" height="21" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(363.96 1234.7619)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">function() {···}</tspan>
+          </text>
+        </g>
+        <g id="Graphic_189">
+          <rect x="358.96" y="1210.2619" width="81.72" height="21" fill="white"/>
+          <rect x="358.96" y="1210.2619" width="81.72" height="21" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Graphic_187">
+        <circle cx="400.34" cy="1220.74" r="2.50000399475464" fill="black"/>
+        <circle cx="400.34" cy="1220.74" r="2.50000399475464" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_186">
+        <line x1="400.34" y1="1217.74" x2="400.34" y2="1183.1" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_185">
+        <text transform="translate(283.92 1190.2619)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">Person.prototype</tspan>
+        </text>
+      </g>
+      <g id="Graphic_184">
+        <text transform="translate(392.00503 1159.2)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">. . .</tspan>
+        </text>
+      </g>
+      <g id="Group_179">
+        <g id="Graphic_183">
+          <rect x="358.96" y="1302.3998" width="81.72" height="21" fill="white"/>
+          <rect x="358.96" y="1302.3998" width="81.72" height="21" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_182">
+          <rect x="283.92" y="1323.3998" width="75.03999" height="21" fill="white"/>
+          <rect x="283.92" y="1323.3998" width="75.03999" height="21" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(288.92 1326.8998)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">name</tspan>
+          </text>
+        </g>
+        <g id="Graphic_181">
+          <rect x="283.92" y="1302.3998" width="75.03999" height="21" fill="white"/>
+          <rect x="283.92" y="1302.3998" width="75.03999" height="21" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(288.92 1305.8998)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">__proto__</tspan>
+          </text>
+        </g>
+        <g id="Graphic_180">
+          <rect x="358.96" y="1323.3998" width="81.72" height="21" fill="white"/>
+          <rect x="358.96" y="1323.3998" width="81.72" height="21" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(363.96 1326.8998)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="20.558241" y="11">&apos;Jane&apos;</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_178">
+        <circle cx="400.34" cy="1313.26" r="2.50000399475467" fill="black"/>
+        <circle cx="400.34" cy="1313.26" r="2.50000399475467" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_177">
+        <line x1="400.31817" y1="1310.26" x2="399.972" y2="1262.6616" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_176">
+        <text transform="translate(283.92 1282.3998)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">jane</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

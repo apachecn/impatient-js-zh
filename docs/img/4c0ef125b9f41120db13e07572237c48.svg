@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="176.5 97.5 277 205.5" width="277" height="205.5">
+  <defs>
+    <filter id="Shadow" filterUnits="userSpaceOnUse" x="176.5" y="97.5">
+      <feGaussianBlur in="SourceAlpha" result="blur" stdDeviation="1.308"/>
+      <feOffset in="blur" result="offset" dx="0" dy="2"/>
+      <feFlood flood-color="black" flood-opacity=".5" result="flood"/>
+      <feComposite in="flood" in2="offset" operator="in"/>
+    </filter>
+    <font-face font-family="Helvetica" font-size="12" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="522.9492" cap-height="717.28516" ascent="770.0195" descent="-229.98047" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Helvetica"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="StickArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 0 M 0 -3 L 8 0 L 0 3" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.8 
+    <dc:date>2017-06-16 10:56:53 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" fill-opacity="1" stroke-dasharray="none" stroke="none" stroke-opacity="1" fill="none">
+    <title>Canvas 1</title>
+    <rect fill="white" x="176.5" y="97.5" width="277" height="205.5"/>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_507_shadow" filter="url(#Shadow)">
+        <rect x="180" y="99" width="270" height="45" fill="white"/>
+        <rect x="180" y="99" width="270" height="45" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_508_shadow" filter="url(#Shadow)">
+        <rect x="180" y="180" width="270" height="27" fill="white"/>
+        <rect x="180" y="180" width="270" height="27" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_509_shadow" filter="url(#Shadow)">
+        <rect x="180" y="243" width="36" height="27" fill="white"/>
+        <rect x="180" y="243" width="36" height="27" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_511_shadow" filter="url(#Shadow)">
+        <rect x="261" y="243" width="36" height="27" fill="white"/>
+        <rect x="261" y="243" width="36" height="27" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_512_shadow" filter="url(#Shadow)">
+        <rect x="342" y="243" width="36" height="27" fill="white"/>
+        <rect x="342" y="243" width="36" height="27" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_507">
+        <rect x="180" y="99" width="270" height="45" fill="white"/>
+        <rect x="180" y="99" width="270" height="45" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(190 107.5)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">Global object</tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="25">Script scope of var, function declarations</tspan>
+        </text>
+      </g>
+      <g id="Graphic_508">
+        <rect x="180" y="180" width="270" height="27" fill="white"/>
+        <rect x="180" y="180" width="270" height="27" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(190 186.5)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">Script scope of let, const, class declarations</tspan>
+        </text>
+      </g>
+      <g id="Graphic_509">
+        <rect x="180" y="243" width="36" height="27" fill="white"/>
+        <rect x="180" y="243" width="36" height="27" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(185 249.5)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="4.665039" y="11">M1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_510">
+        <text transform="translate(227 284)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">Module scopes (one per module)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_511">
+        <rect x="261" y="243" width="36" height="27" fill="white"/>
+        <rect x="261" y="243" width="36" height="27" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(266 249.5)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="4.665039" y="11">M2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_512">
+        <rect x="342" y="243" width="36" height="27" fill="white"/>
+        <rect x="342" y="243" width="36" height="27" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(347 249.5)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="4.665039" y="11">M3</tspan>
+        </text>
+      </g>
+      <g id="Graphic_513">
+        <text transform="translate(431 245.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".328" y="15">···</tspan>
+        </text>
+      </g>
+      <g id="Line_515">
+        <line x1="315" y1="180" x2="315" y2="153.9" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_516">
+        <line x1="198" y1="243" x2="273.97333" y2="210.85744" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_517">
+        <line x1="279" y1="243" x2="299.35892" y2="215.0065" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_518">
+        <line x1="360" y1="243" x2="333.9322" y2="214.3254" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_519">
+        <line x1="438" y1="243" x2="357.72963" y2="210.69607" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

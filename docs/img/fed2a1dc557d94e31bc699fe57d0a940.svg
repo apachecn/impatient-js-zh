@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="204.5 307 308 117" width="308" height="117">
+  <defs>
+    <filter id="Shadow" filterUnits="userSpaceOnUse" x="204.5" y="307">
+      <feGaussianBlur in="SourceAlpha" result="blur" stdDeviation="1.308"/>
+      <feOffset in="blur" result="offset" dx="0" dy="2"/>
+      <feFlood flood-color="black" flood-opacity=".5" result="flood"/>
+      <feComposite in="flood" in2="offset" operator="in"/>
+    </filter>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.10.1 
+    <dc:date>2018-08-15 11:40:57 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" stroke-opacity="1" stroke="none" fill="none" fill-opacity="1" stroke-dasharray="none">
+    <title>Canvas 1</title>
+    <rect fill="white" x="204.5" y="307" width="308" height="117"/>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_4_shadow" filter="url(#Shadow)">
+        <rect x="208" y="363.5" width="166" height="55" fill="white"/>
+        <rect x="208" y="363.5" width="166" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_5_shadow" filter="url(#Shadow)">
+        <rect x="374" y="363.5" width="135" height="55" fill="white"/>
+        <rect x="374" y="363.5" width="135" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_6_shadow" filter="url(#Shadow)">
+        <rect x="208" y="308.5" width="114.5" height="55" fill="white"/>
+        <rect x="208" y="308.5" width="114.5" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_7_shadow" filter="url(#Shadow)">
+        <rect x="322.5" y="308.5" width="186.5" height="55" fill="white"/>
+        <rect x="322.5" y="308.5" width="186.5" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4">
+        <rect x="208" y="363.5" width="166" height="55" fill="white"/>
+        <rect x="208" y="363.5" width="166" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(213 381)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="13.992" y="15">JavaScript engine</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5">
+        <rect x="374" y="363.5" width="135" height="55" fill="white"/>
+        <rect x="374" y="363.5" width="135" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(379 381)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="14.348" y="15">Platform core</tspan>
+        </text>
+      </g>
+      <g id="Graphic_6">
+        <rect x="208" y="308.5" width="114.5" height="55" fill="white"/>
+        <rect x="208" y="308.5" width="114.5" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(213 317.552)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="9.122" y="15">JS standard </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="30.33" y="33.448">library</tspan>
+        </text>
+      </g>
+      <g id="Graphic_7">
+        <rect x="322.5" y="308.5" width="186.5" height="55" fill="white"/>
+        <rect x="322.5" y="308.5" width="186.5" height="55" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(327.5 326)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="43.362" y="15">Platform API</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

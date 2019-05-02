@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="70.5 77 395.5358 79.499985" width="395.5358" height="79.499985">
+  <defs>
+    <filter id="Shadow" filterUnits="userSpaceOnUse" x="70.5" y="77">
+      <feGaussianBlur in="SourceAlpha" result="blur" stdDeviation="1.308"/>
+      <feOffset in="blur" result="offset" dx="0" dy="2"/>
+      <feFlood flood-color="black" flood-opacity=".5" result="flood"/>
+      <feComposite in="flood" in2="offset" operator="in"/>
+    </filter>
+    <font-face font-family="Helvetica" font-size="12" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="522.9492" cap-height="717.28516" ascent="770.0195" descent="-229.98047" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Helvetica"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica" font-size="12" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="532.22656" cap-height="719.7266" ascent="770.0195" descent="-229.98047" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Helvetica-Bold"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="StickArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 0 M 0 -3 L 8 0 L 0 3" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.7.1 
+    <dc:date>2015-02-01 11:17:05 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" fill-opacity="1" stroke-dasharray="none" stroke="none" stroke-opacity="1" fill="none">
+    <title>Canvas 1</title>
+    <rect fill="white" x="70.5" y="77" width="395.5358" height="79.499985"/>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_19_shadow" filter="url(#Shadow)">
+        <rect x="74" y="113" width="109" height="18.999992" fill="white"/>
+        <rect x="74" y="113" width="109" height="18.999992" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_20_shadow" filter="url(#Shadow)">
+        <rect x="74" y="132" width="109" height="18.999992" fill="white"/>
+        <rect x="74" y="132" width="109" height="18.999992" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_16_shadow" filter="url(#Shadow)">
+        <rect x="313.0358" y="113" width="109" height="19" fill="white"/>
+        <rect x="313.0358" y="113" width="109" height="19" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Group_18">
+        <g id="Graphic_20">
+          <rect x="74" y="132" width="109" height="18.999992" fill="white"/>
+          <rect x="74" y="132" width="109" height="18.999992" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(79 134.49999)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">[Symbol.iterator]()</tspan>
+          </text>
+        </g>
+        <g id="Graphic_19">
+          <rect x="74" y="113" width="109" height="18.999992" fill="white"/>
+          <rect x="74" y="113" width="109" height="18.999992" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(79 115.5)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">···</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_17">
+        <text transform="translate(74 77)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="700" fill="black" x="0" y="11">Iterable:</tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="25">traversable data structure</tspan>
+        </text>
+      </g>
+      <g id="Group_15">
+        <g id="Graphic_16">
+          <rect x="313.0358" y="113" width="109" height="19" fill="white"/>
+          <rect x="313.0358" y="113" width="109" height="19" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(318.0358 115.5)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">next()</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_14">
+        <text transform="translate(313.0358 77)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="700" fill="black" x="0" y="11">Iterator:</tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="25">pointer for traversing iterable</tspan>
+        </text>
+      </g>
+      <g id="Line_13">
+        <line x1="183.49843" y1="137.12839" x2="302.6685" y2="127.65604" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_12">
+        <text transform="translate(227.97828 119.54871) rotate(-4.544654)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x=".32617188" y="11">returns</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

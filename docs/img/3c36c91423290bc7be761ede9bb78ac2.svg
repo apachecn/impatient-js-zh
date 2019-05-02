@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="35.38 1599.9543 360.75 223.59182" width="360.75" height="223.59182">
+  <defs>
+    <filter id="Shadow" filterUnits="userSpaceOnUse" x="35.38" y="1599.9543">
+      <feGaussianBlur in="SourceAlpha" result="blur" stdDeviation="1.308"/>
+      <feOffset in="blur" result="offset" dx="0" dy="2"/>
+      <feFlood flood-color="black" flood-opacity=".5" result="flood"/>
+      <feComposite in="flood" in2="offset" operator="in"/>
+    </filter>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="StickArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 0 M 0 -3 L 8 0 L 0 3" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Helvetica" font-size="12" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="522.9492" cap-height="717.28516" ascent="770.0195" descent="-229.98047" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Helvetica"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.8.1 
+    <dc:date>2018-07-03 00:20:09 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" fill-opacity="1" stroke-dasharray="none" stroke="none" stroke-opacity="1" fill="none">
+    <title>Canvas 1</title>
+    <rect fill="white" x="35.38" y="1599.9543" width="360.75" height="223.59182"/>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_72_shadow" filter="url(#Shadow)">
+        <rect x="38.88" y="1647.0461" width="108" height="27" fill="white"/>
+        <rect x="38.88" y="1647.0461" width="108" height="27" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_71_shadow" filter="url(#Shadow)">
+        <rect x="254.88" y="1647.0461" width="137.75" height="27" fill="white"/>
+        <rect x="254.88" y="1647.0461" width="137.75" height="27" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_70_shadow" filter="url(#Shadow)">
+        <rect x="38.88" y="1719.0461" width="108" height="27" fill="white"/>
+        <rect x="38.88" y="1719.0461" width="108" height="27" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_69_shadow" filter="url(#Shadow)">
+        <rect x="254.88" y="1719.0461" width="137.75" height="27" fill="white"/>
+        <rect x="254.88" y="1719.0461" width="137.75" height="27" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_68_shadow" filter="url(#Shadow)">
+        <rect x="256.255" y="1791.0461" width="135" height="27" fill="white"/>
+        <rect x="256.255" y="1791.0461" width="135" height="27" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_67_shadow" filter="url(#Shadow)">
+        <line x1="323.755" y1="1790.5461" x2="323.755" y2="1756.4461" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_66_shadow" filter="url(#Shadow)">
+        <line x1="323.755" y1="1718.5461" x2="323.755" y2="1684.4461" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_63_shadow" filter="url(#Shadow)">
+        <line x1="147.38" y1="1660.5461" x2="244.48" y2="1660.5461" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_61_shadow" filter="url(#Shadow)">
+        <line x1="147.38" y1="1732.5461" x2="244.48" y2="1732.5461" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_57_shadow" filter="url(#Shadow)">
+        <line x1="323.755" y1="1646.5461" x2="323.755" y2="1624.0117" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_55_shadow" filter="url(#Shadow)">
+        <line x1="92.88" y1="1718.5461" x2="92.88" y2="1684.4461" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_52_shadow" filter="url(#Shadow)">
+        <line x1="92.88" y1="1646.5461" x2="92.88" y2="1623.8543" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_72">
+        <rect x="38.88" y="1647.0461" width="108" height="27" fill="white"/>
+        <rect x="38.88" y="1647.0461" width="108" height="27" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(43.88 1653.5461)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="29.989258" y="11">Person</tspan>
+        </text>
+      </g>
+      <g id="Graphic_71">
+        <rect x="254.88" y="1647.0461" width="137.75" height="27" fill="white"/>
+        <rect x="254.88" y="1647.0461" width="137.75" height="27" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(259.88 1653.5461)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="18.180664" y="11">Person.prototype</tspan>
+        </text>
+      </g>
+      <g id="Graphic_70">
+        <rect x="38.88" y="1719.0461" width="108" height="27" fill="white"/>
+        <rect x="38.88" y="1719.0461" width="108" height="27" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(43.88 1725.5461)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="22.319336" y="11">Employee</tspan>
+        </text>
+      </g>
+      <g id="Graphic_69">
+        <rect x="254.88" y="1719.0461" width="137.75" height="27" fill="white"/>
+        <rect x="254.88" y="1719.0461" width="137.75" height="27" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(259.88 1725.5461)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="10.510742" y="11">Employee.prototype</tspan>
+        </text>
+      </g>
+      <g id="Graphic_68">
+        <rect x="256.255" y="1791.0461" width="135" height="27" fill="white"/>
+        <rect x="256.255" y="1791.0461" width="135" height="27" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(261.255 1797.5461)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="51.156246" y="11">jane</tspan>
+        </text>
+      </g>
+      <g id="Line_67">
+        <line x1="323.755" y1="1790.5461" x2="323.755" y2="1756.4461" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_66">
+        <line x1="323.755" y1="1718.5461" x2="323.755" y2="1684.4461" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_65">
+        <text transform="translate(335.255 1764.511)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x=".4765625" y="11">__proto__</tspan>
+        </text>
+      </g>
+      <g id="Graphic_64">
+        <text transform="translate(335.255 1693.697)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x=".4765625" y="11">__proto__</tspan>
+        </text>
+      </g>
+      <g id="Line_63">
+        <line x1="147.38" y1="1660.5461" x2="244.48" y2="1660.5461" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_62">
+        <text transform="translate(173.38 1644.5461)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x=".48339844" y="11">prototype</tspan>
+        </text>
+      </g>
+      <g id="Line_61">
+        <line x1="147.38" y1="1732.5461" x2="244.48" y2="1732.5461" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_60">
+        <text transform="translate(173.38 1716.5461)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x=".48339844" y="11">prototype</tspan>
+        </text>
+      </g>
+      <g id="Graphic_58">
+        <text transform="translate(279.255 1600.1117)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x=".47558594" y="11">Object.prototype</tspan>
+        </text>
+      </g>
+      <g id="Line_57">
+        <line x1="323.755" y1="1646.5461" x2="323.755" y2="1624.0117" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_56">
+        <text transform="translate(335.255 1626.3887)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x=".4765625" y="11">__proto__</tspan>
+        </text>
+      </g>
+      <g id="Line_55">
+        <line x1="92.88" y1="1718.5461" x2="92.88" y2="1684.4461" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_54">
+        <text transform="translate(104.38 1692.697)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x=".4765625" y="11">__proto__</tspan>
+        </text>
+      </g>
+      <g id="Graphic_53">
+        <text transform="translate(42.88 1599.9543)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x=".30371094" y="11">Function.prototype</tspan>
+        </text>
+      </g>
+      <g id="Line_52">
+        <line x1="92.88" y1="1646.5461" x2="92.88" y2="1623.8543" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_51">
+        <text transform="translate(104.38 1626.3249)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">__proto__</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
