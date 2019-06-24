@@ -1,0 +1,37 @@
+{
+  "name": "js-foundations-code",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "ava --match \"!*#bonus\"",
+    "testone": "ava",
+    "testall": "ava \"{exercises,demos}/**/*{_test,_exrc}.mjs\"",
+    "serve": "http-server test_data/"
+  },
+  "author": "Axel Rauschmayer",
+  "// dependencies": [
+    "http-server is needed for fetch_json_test.mjs and fetch_json_test2.mjs",
+    "isomorphic-fetch is needed for fetch_json_test.mjs and fetch_json_test2.mjs"
+  ],
+  "dependencies": {
+    "ava": "^2.0.0",
+    "esm": "^3.2.18",
+    "http-server": "^0.11.1",
+    "isomorphic-fetch": "^2.2.1"
+  },
+  "// ava": [
+    "failWithoutAssertions must be false, because assert.* is not tracked by AVA",
+    "esm completely replaces Babel, which is switched off via babel:false and compileEnhancements:false"
+  ],
+  "ava": {
+    "babel": false,
+    "compileEnhancements": false,
+    "extensions": [
+      "mjs"
+    ],
+    "require": [
+      "esm"
+    ],
+    "failWithoutAssertions": false
+  }
+}
