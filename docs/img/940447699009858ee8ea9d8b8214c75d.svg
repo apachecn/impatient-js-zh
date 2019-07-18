@@ -51,35 +51,35 @@
         <rect x="89.29133" y="89.29134" width="226.77165" height="29.76378" fill="white"/>
         <rect x="89.29133" y="89.29134" width="226.77165" height="29.76378" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
         <text transform="translate(94.29133 94.17323)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="41.265826" y="15">Stage 0: strawman</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="41.265826" y="15">第 0 阶段: strawman</tspan>
         </text>
       </g>
       <g id="Graphic_21">
         <rect x="89.29133" y="178.58267" width="226.77165" height="29.76378" fill="white"/>
         <rect x="89.29133" y="178.58267" width="226.77165" height="29.76378" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
         <text transform="translate(94.29133 183.46456)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="45.113826" y="15">Stage 1: proposal</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="45.113826" y="15">第 1 阶段: proposal</tspan>
         </text>
       </g>
       <g id="Graphic_20">
         <rect x="89.29133" y="267.874" width="226.77165" height="29.76378" fill="white"/>
         <rect x="89.29133" y="267.874" width="226.77165" height="29.76378" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
         <text transform="translate(94.29133 272.7559)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="59.785826" y="15">Stage 2: draft</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="59.785826" y="15">第 2 阶段: draft</tspan>
         </text>
       </g>
       <g id="Graphic_19">
         <rect x="89.29133" y="357.16535" width="226.77165" height="29.76378" fill="white"/>
         <rect x="89.29133" y="357.16535" width="226.77165" height="29.76378" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
         <text transform="translate(94.29133 362.04724)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="40.961826" y="15">Stage 3: candidate</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="40.961826" y="15">第 3 阶段: candidate</tspan>
         </text>
       </g>
       <g id="Graphic_18">
         <rect x="89.29133" y="446.4567" width="226.77165" height="29.76378" fill="white"/>
         <rect x="89.29133" y="446.4567" width="226.77165" height="29.76378" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
         <text transform="translate(94.29133 451.3386)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="48.521826" y="15">Stage 4: finished</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="48.521826" y="15">第 4 阶段: finished</tspan>
         </text>
       </g>
       <g id="Line_17">
@@ -97,25 +97,25 @@
       <g id="Graphic_13">
         <rect x="140.17716" y="131.48409" width="125" height="30" fill="white"/>
         <text transform="translate(145.62116 136.48409)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="4902745e-19" y="15">Pick champions</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="4902745e-19" y="15">选择 champions</tspan>
         </text>
       </g>
       <g id="Graphic_12">
         <rect x="76.17716" y="218.9891" width="253" height="30" fill="white"/>
         <text transform="translate(81.60516 223.9891)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="11368684e-20" y="15">First spec text, 2 implementations</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="11368684e-20" y="15">初步的标准文档，两个实现</tspan>
         </text>
       </g>
       <g id="Graphic_11">
         <rect x="143.17716" y="309.8466" width="119" height="30" fill="white"/>
         <text transform="translate(148.58916 314.8466)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Spec complete</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">标准文档编写完毕</tspan>
         </text>
       </g>
       <g id="Graphic_10">
         <rect x="103.67716" y="399.58696" width="198" height="30" fill="white"/>
         <text transform="translate(109.02116 404.58696)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="8668621e-19" y="15">Test 262 acceptance tests</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="8668621e-19" y="15">进行 Test 262 测试</tspan>
         </text>
       </g>
       <g id="Line_9">
@@ -123,32 +123,32 @@
       </g>
       <g id="Graphic_8">
         <text transform="translate(114.90634 48.68504)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Review at TC39 meeting</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">在 TC39 会议上讨论</tspan>
         </text>
       </g>
       <g id="Graphic_7">
         <text transform="translate(342.32284 183.34645)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">TC39 helps</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">TC39 参与工作</tspan>
         </text>
       </g>
       <g id="Graphic_6">
         <text transform="translate(342.32284 272.6378)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Likely to be standardized</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">即将成为标准</tspan>
         </text>
       </g>
       <g id="Graphic_5">
         <text transform="translate(342.32284 361.92913)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Done, needs feedback from implementations</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">完成，等待实现方面的反馈</tspan>
         </text>
       </g>
       <g id="Graphic_4">
         <text transform="translate(342.32284 451.22047)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Ready for standardization</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">准备成为标准</tspan>
         </text>
       </g>
       <g id="Graphic_3">
         <text transform="translate(342.32284 93.8189)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Sketch</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">草稿</tspan>
         </text>
       </g>
     </g>
