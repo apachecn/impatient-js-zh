@@ -14,6 +14,16 @@
 * [ApacheCN 面试求职交流群 724187166](https://jq.qq.com/?_wv=1027&k=54ujcL3)
 * [ApacheCN 学习资源](http://www.apachecn.org/)
 
+## 下载
+
+### NPM
+
+```
+npm install -g impatient-js-zh
+impatient-js-zh <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
 ## 贡献指南
 
 项目当前处于校对阶段，请查看[贡献指南](CONTRIBUTING.md)，并在[整体进度](https://github.com/apachecn/impatient-js-zh/issues/1)中领取任务。
