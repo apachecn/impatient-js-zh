@@ -16,6 +16,14 @@
 
 ## 下载
 
+### PYPI
+
+```
+pip install impatient-js-zh
+impatient-js-zh <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
 ### NPM
 
 ```
