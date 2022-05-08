@@ -69,7 +69,7 @@
 
 译文在`docs`目录下，原文请见每个文章开头处的链接。
 
-请见[校对活动参与手册](https://github.com/apachecn/home/blob/master/docs/translate/joining-guide.md)来提交效率。
+请见[校对活动参与手册](https://github.com/apachecn/home/blob/master/docs/translate/joining-guide.md)来提高效率。
 
 **注意**：不要修改译文的文件名，因为它们和章节对应！
 
