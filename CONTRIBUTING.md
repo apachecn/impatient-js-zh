@@ -6,78 +6,118 @@
 
 +   飞龙：562826179
 
-## 章节列表
+## 有用的链接
 
-+   [1.关于本书（ES2019 版）](docs/2.md)
-+   [2.常见问题：本书](docs/3.md)
-+   [3\. JavaScript 的历史和演变](docs/4.md)
-+   [4.常见问题：JavaScript](docs/5.md)
-+   [5.概览](docs/7.md)
-+   [6.语法](docs/8.md)
-+   [7.在控制台上打印信息（`console.*`）](docs/9.md)
-+   [8.断言 API](docs/10.md)
-+   [9.测验和练习入门](docs/11.md)
-+   [10.变量和赋值](docs/13.md)
-+   [11.值](docs/14.md)
-+   [12.运算符](docs/15.md)
-+   [13.非值`undefined`和`null`](docs/17.md)
-+   [14.布尔值](docs/18.md)
-+   [15.数字](docs/19.md)
-+   [16\. `Math`](docs/20.md)
-+   [17\. Unicode - 简要介绍（高级）](docs/21.md)
-+   [18.字符串](docs/22.md)
-+   [19.使用模板字面值和标记模板](docs/23.md)
-+   [20.符号](docs/24.md)
-+   [21.控制流语句](docs/26.md)
-+   [22.异常处理](docs/27.md)
-+   [23.可调用值](docs/28.md)
-+   [24.模块](docs/30.md)
-+   [25.单个对象](docs/31.md)
-+   [26.原型链和类](docs/32.md)
-+   [27.同步迭代](docs/34.md)
-+   [28.数组（`Array`）](docs/35.md)
-+   [29.类型化数组：处理二进制数据（高级）](docs/36.md)
-+   [30.映射（`Map`）](docs/37.md)
-+   [31\. WeakMaps（`WeakMap`）](docs/38.md)
-+   [32.集（`Set`）](docs/39.md)
-+   [33\. WeakSets（`WeakSet`）](docs/40.md)
-+   [34.解构](docs/41.md)
-+   [35.同步生成器（高级）](docs/42.md)
-+   [36\. JavaScript 中的异步编程](docs/44.md)
-+   [37.异步编程的 Promise](docs/45.md)
-+   [38.异步函数](docs/46.md)
-+   [39.正则表达式（`RegExp`）](docs/48.md)
-+   [40.日期（`Date`）](docs/49.md)
-+   [41.创建和解析 JSON（`JSON`）](docs/50.md)
-+   [42.其余章节在哪里？](docs/51.md)
++   [ApacheCN 文档导航](https://docs.apachecn.org/)
++   [谷歌翻译](https://translate.google.cn/)
++   [ApacheCN 校对活动参与手册](https://github.com/apachecn/home/blob/master/docs/translate/joining-guide.md)
++   [译后编辑](https://www.bing.com/search?q=%E8%AF%91%E5%90%8E%E7%BC%96%E8%BE%91&mkt=zh-CN)
++   [当翻译竟然变成了文本编辑——李笑来](https://zhuanlan.zhihu.com/p/465979584)
++   [翻译引擎易错术语列表（欢迎补充）](https://github.com/apachecn/home/blob/master/docs/translate/trans-table.md)
++   [廖雪峰 Git 教程](https://www.liaoxuefeng.com/wiki/896043488029600)
 
 ## 流程
 
 ### 一、认领
 
-首先查看[整体进度](https://github.com/apachecn/impatient-js-zh/issues/1)，确认没有人认领了你想认领的章节。
+校对者需要熟练掌握 Markdown 和 Git，以及文档的主题（编程，Web开发，大数据，AI，安全之一）。
+
+首先查看[整体进度](https://github.com/apachecn/ds-cmd-line-2e-zh/issues/1)，确认没有人认领了你想认领的章节。
  
-然后回复 ISSUE，注明“章节 + QQ 号”（一定要留 QQ）。
+然后回复 ISSUE，注明“章节 + QQ 号”，便于联系和跟踪进度。
 
 ### 二、校对
 
-需要校对：
+需要校对【专业术语】和【格式】。
 
-+   部分语法
-+   专业词汇
-+   格式
+【语法】无需校对因为已经校对完了，并且请最大程度保留原文的语言风格。
 
 译文在`docs`目录下，原文请见每个文章开头处的链接。
 
-请见[校对活动参与手册](https://github.com/apachecn/home/blob/master/docs/translate/joining-guide.md)来提高效率。
-
 **注意**：不要修改译文的文件名，因为它们和章节对应！
+
+确保译文符合下方的【Markdown 排版要求】一节。
+
+请参考下方的【有用的正则表达式】一节，以及[【翻译引擎易错术语列表】](https://github.com/apachecn/home/blob/master/docs/translate/trans-table.md)来提高效率。
 
 ### 三、提交
 
 +   `fork` Github 项目
-+   修改`docs`中的文档。
-+   `push`
++   在`docs`文件夹下编辑译文
++   `add`、`commit`和`push`
 +   `pull request`
 
-请见 [Github 入门指南](https://github.com/apachecn/kaggle/blob/master/docs/GitHub)。
+请见[廖雪峰 Git 教程](https://www.liaoxuefeng.com/wiki/896043488029600)。
+
+## Markdown 排版要求
+
+1.  代码块和图片无需校对，并且不计入字数。
+3.  汉字和英文字母，汉字和数字之间空一格。但是中文标点和任何字符之间都不用空格。
+4.  粗体斜体和链接要求同上，中文和英文粗体，英文和中文粗体之间也需要空格。
+5.  任何编程语言中出现的东西，比如变量名，类名，函数名，包名，以及命令行中出现的东西，比如命令，文件名，路径，扩展名，都需要包在内联代码中。内联代码与汉字/标点之间无需空格，但和英文字母或数字之间空一格。
+6.  表格的格式容易乱，保证它们显示正常。
+7.  标题和较短的列表需要特别校对。
+8.  有少量未翻译的段落，使用[谷歌翻译](https://translate.google.cn/)之后再校对。
+
+## 有用的正则表达式
+
+链接：
+
+```
+(?<!!)\[[^\]]*\]
+```
+
+表格：
+
+```
+^\|
+```
+
+中文间空格：
+
+中文间空格一般是翻译引擎出错的地方。
+
+```
+[\u4e00-\u9fff]\s+[\u4e00-\u9fff]
+```
+
+未翻译段落：
+
+```
+^[a-zA-Z0-9][^\u4e00-\u9fff]+$
+^\s*([\+\-\*]\x20{3}|\d+\.\x20{2})[^\u4e00-\u9fff]+$
+```
+
+内联代码：
+
+在 Markdown 中，内联代码需要用反引号括起来，但一些教程并没有这样做。于是，需要检查中英文边界，将没有用反引号括起来的内联代码改掉。
+
+```
+[\u2018-\u201d\u3001-\u301c\u4e00-\u9fff\uff01-\uff65]\x20*[A-Za-z0-9]|[A-Za-z0-9]\x20*[\u2018-\u201d\u3001-\u301c\u4e00-\u9fff\uff01-\uff65]
+```
+
+粗体/斜体：
+
+```
+\*\*[^\*]+\*\*|(?<!\*)\*[^\*]+\*(?!\*)
+```
+
+标题：
+
+```
+^#+\x20
+```
+
+列表（二十字以内）：
+
+短的列表由于没有上下文非常容易出错。
+
+```
+^\s*([\+\-\*]\x20{3}|\d+\.\x20{2}).{1,20}$
+```
+
+## 奖励
+
+校对者在完工后可以领取千字2~4元的奖励（视难度和工作量而定），请联系飞龙（Q562826179，V:wizardforcel）。
+
+字数统计遵循 word 标准：每一个汉字和标点算一个字，一个连续的英文字母、数字和标点序列算一个字
