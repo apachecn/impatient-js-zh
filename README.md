@@ -64,4 +64,6 @@ impatient-js-zh <port>
 
 ## 赞助我们
 
-![](http://data.apachecn.org/img/about/donate.jpg)
+本项目由[飞龙](https://github.com/wizardforcel)赞助，扫下面的二维码打赏他来表示感谢：
+
+![](asset/flygon_qr_alipay.png)
